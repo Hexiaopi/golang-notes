@@ -5,11 +5,31 @@
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/showcase/hugo/hugo-theme-zzo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/showcase/hugo/hugo-theme-zzo/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/showcase/hugo/hugo-theme-zdoc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/showcase/hugo/hugo-theme-zdoc/"
+                />
   </url>
   
   <url>
@@ -17,8 +37,8 @@
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,21 +50,61 @@
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/article/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/book/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/misc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/misc/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/"
+                />
   </url>
   
   <url>
@@ -52,8 +112,8 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/posts/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,8 +137,8 @@
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/tags/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -90,11 +150,31 @@
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/showcase/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/showcase/hugo/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/showcase/"
+                />
   </url>
   
   <url>
@@ -102,8 +182,8 @@
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/categories/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -137,8 +217,8 @@
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/series/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -292,8 +372,8 @@
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/gallery/cartoon/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -307,8 +387,8 @@
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/gallery/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -322,8 +402,8 @@
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/gallery/photo/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -335,26 +415,76 @@
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/presentation/dir/fourth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/presentation/dir/fourth/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/presentation/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/presentation/third/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/presentation/third/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/presentation/second/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/presentation/second/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/presentation/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/presentation/first/"
+                />
   </url>
   
   <url>
@@ -362,8 +492,8 @@
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/archive/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/archive/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -377,8 +507,8 @@
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/about/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -390,24 +520,54 @@
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/article/article_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/article/article_any_folder_name_1/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/book/book_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/book/book_any_folder_name_1/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/publication/misc/misc_any_folder_name_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hexiaopi.github.io/golang-notes/en/publication/misc/misc_any_folder_name_1/"
+                />
   </url>
   
   <url>
     <loc>http://hexiaopi.github.io/golang-notes/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://hexiaopi.github.io/golang-notes/ko/tags/index/"
+                hreflang="cn"
+                href="http://hexiaopi.github.io/golang-notes/cn/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"

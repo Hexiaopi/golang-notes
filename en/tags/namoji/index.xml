@@ -11,9 +11,9 @@
     <description>Recent content in namoji on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
+    <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
+    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="http://hexiaopi.github.io/golang-notes/en/tags/namoji/index.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +24,7 @@
         <title>Emoji Support</title>
         <link>http://hexiaopi.github.io/golang-notes/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://hexiaopi.github.io/golang-notes/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>

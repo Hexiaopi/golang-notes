@@ -11,9 +11,9 @@
     <description>Recent content in Presentations on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
+    <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
+    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
         <atom:link href="http://hexiaopi.github.io/golang-notes/en/presentation/index.xml" rel="self" type="application/rss+xml" />
@@ -24,12 +24,12 @@
         <title>Fourth</title>
         <link>http://hexiaopi.github.io/golang-notes/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
         <guid>http://hexiaopi.github.io/golang-notes/en/presentation/dir/fourth/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>何小进</dc:creator>
         <media:content url="http://hexiaopi.github.io/golang-notesimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -54,12 +54,12 @@
         <title>Third</title>
         <link>http://hexiaopi.github.io/golang-notes/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
         <guid>http://hexiaopi.github.io/golang-notes/en/presentation/third/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>何小进</dc:creator>
         <media:content url="http://hexiaopi.github.io/golang-notesimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -84,12 +84,12 @@
         <title>Second</title>
         <link>http://hexiaopi.github.io/golang-notes/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
         <guid>http://hexiaopi.github.io/golang-notes/en/presentation/second/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>何小进</dc:creator>
         <media:content url="http://hexiaopi.github.io/golang-notesimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -114,12 +114,12 @@
         <title>First</title>
         <link>http://hexiaopi.github.io/golang-notes/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
         <guid>http://hexiaopi.github.io/golang-notes/en/presentation/first/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>何小进</dc:creator>
         <media:content url="http://hexiaopi.github.io/golang-notesimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
