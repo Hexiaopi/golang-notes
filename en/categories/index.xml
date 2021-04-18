@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hugo Zzo Theme</title>
-    <link>http://hexiaopi.github.io/golang-notes/en/categories/</link>
+    <link>http://example.org/en/categories/</link>
     <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://hexiaopi.github.io/golang-notes/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>syntax</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/categories/syntax/</link>
+        <link>http://example.org/en/categories/syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http://hexiaopi.github.io/golang-notes/en/categories/syntax/</guid>
+        <guid>http://example.org/en/categories/syntax/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>themes</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/categories/themes/</link>
+        <link>http://example.org/en/categories/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http://hexiaopi.github.io/golang-notes/en/categories/themes/</guid>
+        <guid>http://example.org/en/categories/themes/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>hugo</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/categories/hugo/</link>
+        <link>http://example.org/en/categories/hugo/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http://hexiaopi.github.io/golang-notes/en/categories/hugo/</guid>
+        <guid>http://example.org/en/categories/hugo/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>diagram</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/categories/diagram/</link>
+        <link>http://example.org/en/categories/diagram/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http://hexiaopi.github.io/golang-notes/en/categories/diagram/</guid>
+        <guid>http://example.org/en/categories/diagram/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>math</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/categories/math/</link>
+        <link>http://example.org/en/categories/math/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http://hexiaopi.github.io/golang-notes/en/categories/math/</guid>
+        <guid>http://example.org/en/categories/math/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>

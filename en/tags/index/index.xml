@@ -7,25 +7,25 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Hugo Zzo Theme</title>
-    <link>http://hexiaopi.github.io/golang-notes/en/tags/index/</link>
+    <link>http://example.org/en/tags/index/</link>
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://hexiaopi.github.io/golang-notes/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/posts/</link>
+        <link>http://example.org/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http://hexiaopi.github.io/golang-notes/en/posts/</guid>
+        <guid>http://example.org/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

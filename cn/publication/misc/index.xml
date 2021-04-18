@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>misc on Hugo Zzo Theme</title>
-    <link>http://hexiaopi.github.io/golang-notes/cn/publication/misc/</link>
+    <link>http://example.org/cn/publication/misc/</link>
     <description>Recent content in misc on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://hexiaopi.github.io/golang-notes/cn/publication/misc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/cn/publication/misc/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Book Review: Duis vulputate</title>
-        <link>http://hexiaopi.github.io/golang-notes/cn/publication/misc/misc_any_folder_name_1/</link>
+        <link>http://example.org/cn/publication/misc/misc_any_folder_name_1/</link>
         <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
-        <guid>http://hexiaopi.github.io/golang-notes/cn/publication/misc/misc_any_folder_name_1/</guid>
+        <guid>http://example.org/cn/publication/misc/misc_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>

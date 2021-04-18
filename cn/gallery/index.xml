@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Hugo Zzo Theme</title>
-    <link>http://hexiaopi.github.io/golang-notes/cn/gallery/</link>
+    <link>http://example.org/cn/gallery/</link>
     <description>Recent content in Galleries on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 21 Apr 2021 10:20:16 +0900</lastBuildDate>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="http://hexiaopi.github.io/golang-notes/cn/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/cn/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Cartoon</title>
-        <link>http://hexiaopi.github.io/golang-notes/cn/gallery/cartoon/</link>
-        <pubDate>Wed, 21 Apr 2021 10:20:16 +0900</pubDate>
+        <link>http://example.org/cn/gallery/cartoon/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
-        <atom:modified>Wed, 21 Apr 2021 10:20:16 +0900</atom:modified>
-        <guid>http://hexiaopi.github.io/golang-notes/cn/gallery/cartoon/</guid>
+        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>http://example.org/cn/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>何小进</dc:creator>
-        <media:content url="http://hexiaopi.github.io/golang-notesimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://example.orgimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -40,15 +40,15 @@
       
       <item>
         <title>Photo</title>
-        <link>http://hexiaopi.github.io/golang-notes/cn/gallery/photo/</link>
-        <pubDate>Mon, 12 Apr 2021 10:20:16 +0900</pubDate>
+        <link>http://example.org/cn/gallery/photo/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
-        <atom:modified>Mon, 12 Apr 2021 10:20:16 +0900</atom:modified>
-        <guid>http://hexiaopi.github.io/golang-notes/cn/gallery/photo/</guid>
+        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>http://example.org/cn/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>何小进</dc:creator>
-        <media:content url="http://hexiaopi.github.io/golang-notesimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://example.orgimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>结构 on Hugo Zzo Theme</title>
-    <link>http://hexiaopi.github.io/golang-notes/cn/tags/%E7%BB%93%E6%9E%84/</link>
+    <link>http://example.org/cn/tags/%E7%BB%93%E6%9E%84/</link>
     <description>Recent content in 结构 on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 14 Apr 2021 14:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://hexiaopi.github.io/golang-notes/cn/tags/%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/cn/tags/%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>工程结构</title>
-        <link>http://hexiaopi.github.io/golang-notes/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</link>
+        <link>http://example.org/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</link>
         <pubDate>Wed, 14 Apr 2021 14:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 14:00:06 +0900</atom:modified>
-        <guid>http://hexiaopi.github.io/golang-notes/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</guid>
+        <guid>http://example.org/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</guid>
         <description>当下载完Go安装包后，需设置3个环境变量，分别是： GOROOR：Go语言安装根目录的路径，这是下载的Go语言安装路径。 GOPATH：工作区目</description>
         
         <dc:creator>何小进</dc:creator>

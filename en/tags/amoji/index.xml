@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>amoji on Hugo Zzo Theme</title>
-    <link>http://hexiaopi.github.io/golang-notes/en/tags/amoji/</link>
+    <link>http://example.org/en/tags/amoji/</link>
     <description>Recent content in amoji on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://hexiaopi.github.io/golang-notes/en/tags/amoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/en/tags/amoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Emoji Support</title>
-        <link>http://hexiaopi.github.io/golang-notes/en/posts/emoji-support/</link>
+        <link>http://example.org/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://hexiaopi.github.io/golang-notes/en/posts/emoji-support/</guid>
+        <guid>http://example.org/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
