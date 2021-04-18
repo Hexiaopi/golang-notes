@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Hugo Zzo Theme</title>
-    <link>http:///hexiaopi.github.io/golang-notes/cn/posts/</link>
+    <link>https://hexiaopi.github.io/golang-notes/cn/posts/</link>
     <description>Recent content in Posts on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 17 Apr 2021 23:45:26 +0800</lastBuildDate>
     
-        <atom:link href="http:///hexiaopi.github.io/golang-notes/cn/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hexiaopi.github.io/golang-notes/cn/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>字符串</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2/</link>
         <pubDate>Sat, 17 Apr 2021 23:45:26 +0800</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Sat, 17 Apr 2021 23:45:26 +0800</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%AD%97%E7%AC%A6%E4%B8%B2/</guid>
         <description>Go语言的字符串（String） 1 定义 **关键字定义：**string 零值：“” 1 var str string 👣 字符串的内容可以用类似数组下标的方式获取，例如st</description>
         
         <dc:creator>何小进</dc:creator>
@@ -54,11 +54,11 @@
       
       <item>
         <title>运算符与表达式</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8E%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8E%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link>
         <pubDate>Wed, 14 Apr 2021 19:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 19:00:06 +0900</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8E%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8E%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid>
         <description>程序、表达式、运算符之间的关系** 通常计算机程序是由多条表达式语句按照一定的逻辑关系所构成的，表达式（Expression）是程序算法的基本</description>
         
         <dc:creator>何小进</dc:creator>
@@ -82,11 +82,11 @@
       
       <item>
         <title>数组</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</link>
         <pubDate>Wed, 14 Apr 2021 18:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 18:00:06 +0900</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</guid>
         <description>数组 一个由固定长度的特定类型组成的序列。特定类型可以是：字符串、结构体、函数、接口、通道等。 定义 1 2 3 4 var a [3]int //长度为3的int类型数组，</description>
         
         <dc:creator>何小进</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>数据类型</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link>
         <pubDate>Wed, 14 Apr 2021 17:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 17:00:06 +0900</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid>
         <description>Go语言基本数据类型（Data-types）包括布尔型、整型、浮点型、复数型、字节型、指针类型。 1、布尔型数据(Boolean) **关键字定</description>
         
         <dc:creator>何小进</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>常量、变量及命名规则</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%B8%B8%E9%87%8F%E5%8F%98%E9%87%8F%E5%8F%8A%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%B8%B8%E9%87%8F%E5%8F%98%E9%87%8F%E5%8F%8A%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99/</link>
         <pubDate>Wed, 14 Apr 2021 16:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 16:00:06 +0900</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%B8%B8%E9%87%8F%E5%8F%98%E9%87%8F%E5%8F%8A%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%B8%B8%E9%87%8F%E5%8F%98%E9%87%8F%E5%8F%8A%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99/</guid>
         <description>1 常量 常量（constant），顾名思义，程序运行期间，其值不能改变的量。 1.1 定义 const &amp;lt;constant_name&amp;gt; [constant_type] = &amp;lt;赋值表达式&amp;gt; 定义一个 1 2 3 4 const PI float32 = 3.1415926</description>
         
         <dc:creator>何小进</dc:creator>
@@ -158,11 +158,11 @@
       
       <item>
         <title>工程结构</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</link>
         <pubDate>Wed, 14 Apr 2021 14:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 14:00:06 +0900</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84/</guid>
         <description>当下载完Go安装包后，需设置3个环境变量，分别是： GOROOR：Go语言安装根目录的路径，这是下载的Go语言安装路径。 GOPATH：工作区目</description>
         
         <dc:creator>何小进</dc:creator>
@@ -182,15 +182,15 @@
       
       <item>
         <title>简介</title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E7%AE%80%E4%BB%8B/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E7%AE%80%E4%BB%8B/</link>
         <pubDate>Wed, 14 Apr 2021 12:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 12:00:06 +0900</atom:modified>
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E7%AE%80%E4%BB%8B/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E7%AE%80%E4%BB%8B/</guid>
         <description>Go语言是一种开源的静态型、编译型并自带垃圾回收和并发的程序设计语言。 具有以下特点： 1、快速编译 开发人员经常导入一些头文件（include）</description>
         
         <dc:creator>何小进</dc:creator>
-        <media:content url="http:///hexiaopi.github.io/golang-notesimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://hexiaopi.github.io/golang-notes/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -200,11 +200,11 @@
       
       <item>
         <title></title>
-        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%B9%B6%E5%8F%91/</link>
+        <link>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%B9%B6%E5%8F%91/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         
-        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E5%B9%B6%E5%8F%91/</guid>
+        <guid>https://hexiaopi.github.io/golang-notes/cn/posts/%E5%B9%B6%E5%8F%91/</guid>
         <description></description>
         
         <dc:creator>何小进</dc:creator>
