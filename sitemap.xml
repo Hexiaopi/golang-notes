@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://example.org/en/sitemap.xml</loc>
+    <loc>http:///hexiaopi.github.io/golang-notes/en/sitemap.xml</loc>
     
       <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://example.org/ko/sitemap.xml</loc>
+    <loc>http:///hexiaopi.github.io/golang-notes/ko/sitemap.xml</loc>
     
       <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://example.org/cn/sitemap.xml</loc>
+    <loc>http:///hexiaopi.github.io/golang-notes/cn/sitemap.xml</loc>
     
       <lastmod>2021-04-17T23:45:26+08:00</lastmod>
     

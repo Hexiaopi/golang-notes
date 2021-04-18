@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>数组 on Hugo Zzo Theme</title>
-    <link>http://example.org/cn/tags/%E6%95%B0%E7%BB%84/</link>
+    <link>http:///hexiaopi.github.io/golang-notes/cn/tags/%E6%95%B0%E7%BB%84/</link>
     <description>Recent content in 数组 on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
     <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 14 Apr 2021 18:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/cn/tags/%E6%95%B0%E7%BB%84/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http:///hexiaopi.github.io/golang-notes/cn/tags/%E6%95%B0%E7%BB%84/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>数组</title>
-        <link>http://example.org/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</link>
+        <link>http:///hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</link>
         <pubDate>Wed, 14 Apr 2021 18:00:06 +0900</pubDate>
         <author>hexiaopi0619@163.com (何小进)</author>
         <atom:modified>Wed, 14 Apr 2021 18:00:06 +0900</atom:modified>
-        <guid>http://example.org/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</guid>
+        <guid>http:///hexiaopi.github.io/golang-notes/cn/posts/%E6%95%B0%E7%BB%84%E4%B8%8E%E5%88%87%E7%89%87/</guid>
         <description>数组 一个由固定长度的特定类型组成的序列。特定类型可以是：字符串、结构体、函数、接口、通道等。 定义 1 2 3 4 var a [3]int //长度为3的int类型数组，</description>
         
         <dc:creator>何小进</dc:creator>
