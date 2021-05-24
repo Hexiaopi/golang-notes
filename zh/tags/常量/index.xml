@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>常量 on Hugo Zzo Theme</title>
+    <link>https://hexiaopi.github.io/golang-notes/zh/tags/%E5%B8%B8%E9%87%8F/</link>
+    <description>Recent content in 常量 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>hexiaopi0619@163.com (何小进)</managingEditor>
+    <webMaster>hexiaopi0619@163.com (何小进)</webMaster>
+    <copyright>&amp;copy;{year} hexiaopi, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 14 Apr 2021 16:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://hexiaopi.github.io/golang-notes/zh/tags/%E5%B8%B8%E9%87%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>常量、变量及命名规则</title>
+        <link>https://hexiaopi.github.io/golang-notes/zh/posts/%E5%B8%B8%E9%87%8F%E5%8F%98%E9%87%8F%E5%8F%8A%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99/</link>
+        <pubDate>Wed, 14 Apr 2021 16:00:06 +0900</pubDate>
+        <author>hexiaopi0619@163.com (何小进)</author>
+        <atom:modified>Wed, 14 Apr 2021 16:00:06 +0900</atom:modified>
+        <guid>https://hexiaopi.github.io/golang-notes/zh/posts/%E5%B8%B8%E9%87%8F%E5%8F%98%E9%87%8F%E5%8F%8A%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99/</guid>
+        <description>1 常量 常量（constant），顾名思义，程序运行期间，其值不能改变的量。 1.1 定义 const &amp;lt;constant_name&amp;gt; [constant_type] = &amp;lt;赋值表达式&amp;gt; 定义一个 1 2 3 4 const PI float32 = 3.1415926</description>
+        
+        <dc:creator>何小进</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>常量</category>
+            
+          
+            
+              <category>变量</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
